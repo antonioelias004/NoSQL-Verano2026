@@ -7,11 +7,20 @@
 -Numero de control:🪪'23400533
 
 
-##Intereses 💻
+## Intereses 💻
 -Inteligencia artificial 
 -Programacion 
 -Mantenimiento 
 
+## tecnologias que conozco 
+-Sql server 
+-java 
+-html 
+-css
 
--Pelicula recomendada
--Close
+## como contactarme
+-3113445678
+-instagram: aeliasp_
+
+## Pelicula recomendada
+-Mente indomable
