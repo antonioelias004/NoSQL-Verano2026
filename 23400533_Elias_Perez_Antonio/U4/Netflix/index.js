@@ -10,8 +10,7 @@ app.use(cors());
 app.use(express.json());
 app.use(morgan("dev"));
 
-mongoose
-    .connect(
+mongoose.connect(
         "mongodb+srv://grupo:grupo@servidorprueba.ygegryf.mongodb.net/netflix"
     )
     .then(() => {
